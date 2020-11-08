@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Permanent Marker', cursive;
+    background-color: orange;
+    line-height: 30px;
+}
+header{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+header img{
+    border-radius: 1000000000000px;
+    width: 200px;
+    border: 20px solid #0874cc;
+}
+header h1{
+    color: black;
+    font-size: 50px;
+}
+h1,h2,ol{
+    font-family: 'Great Vibes', cursive;
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    font-size: 30px;
+    padding: 0 20px;
+}
+
+main img{
+    max-width: 100%;
+}
+a{
+    color: #e70a19;
+}
+a:hover{
+    background-color: purple;
+    color: white;
+}
+h1:hover{
+    color: grey;
+}
+footer{
+    text-align: center;
+}
